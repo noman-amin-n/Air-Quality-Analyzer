@@ -9,7 +9,7 @@ An IoT-based air quality monitoring system using ESP32, MQ135 gas sensor, and DH
 ---
 
 ## 📁 Project Structure
-
+```
 Air_Quality_Analyzer/
 │
 ├── Code/
@@ -26,7 +26,7 @@ Air_Quality_Analyzer/
 └── Report/
   ├──Air Quality Monitoring System.pdf # Final project report
 
-
+```
 ---
 
 ## 🛠️ How to Use
