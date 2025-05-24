@@ -1,10 +1,6 @@
-# Air-Quality-Analyzer
-This system leverages the ESP32 microcontroller alongside the MQ135 gas sensor and the DHT11 temperature-humidity sensor to continuously monitor air quality metrics. Data is transmitted via Wi-Fi to the Blynk platform, enabling real-time remote visualization and tracking.
-
-
 # 🌍 Air Quality Analyzer using ESP32
 
-An IoT-based air quality monitoring system using ESP32, MQ135 gas sensor, and DHT11 temperature sensor. The system displays readings on an LCD and sends real-time updates and alerts via the Blynk app.
+This system leverages the ESP32 microcontroller alongside the MQ135 gas sensor and the DHT11 temperature-humidity sensor to continuously monitor air quality metrics. Data is transmitted via Wi-Fi to the Blynk platform, enabling real-time remote visualization and tracking.
 
 ---
 
