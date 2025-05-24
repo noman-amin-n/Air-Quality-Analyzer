@@ -52,19 +52,19 @@ Air_Quality_Analyzer/
 ## 🖼️ Screenshots
 
 ### 🔧 Circuit Setup
-![Schematic Diagram](Figures/schematic diagram.png)
+![Schematic Diagram](Air_Quality_Analyzer/Figures/schematic_diagram.png)
 
 ### 📊 Block Diagram
-![Block Diagram](Figures/block_diagram.jpg)
+![Block Diagram](Air_Quality_Analyzer/Figures/block_diagram.jpg)
 
 ### 🔄 Flowchart
-![Flowchart](Figures/flowchart.png)
+![Flowchart](Air_Quality_Analyzer/Figures/flowchart.png)
 
 ### 📱 Blynk App Interface
-![Blynk App](Figures/Blynk_App.jpg)
+![Blynk App](Air_Quality_Analyzer/Figures/Blynk_App.jpg)
 
 ### 🚨 Alert Notification
-![CO2 Alert](Figures/CO2_level_alert.jpg)
+![CO2 Alert](Air_Quality_Analyzer/Figures/CO2_level_alert.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ Air_Quality_Analyzer/
 
 Full documentation is available in the `Report/` folder:
 
-📘 [Air Quality Monitoring System.pdf](Report/Air%20Quality%20Monitoring%20System.pdf)
+📘 [Air Quality Monitoring System.pdf](Air_Quality_Analyzer/Report/Air%20Quality%20Monitoring%20System.pdf)
 
 ---
 
