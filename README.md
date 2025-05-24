@@ -51,7 +51,7 @@ Air_Quality_Analyzer/
 ![Schematic Diagram](Air_Quality_Analyzer/Figures/schematic_diagram.png)
 
 ### 📊 Block Diagram
-![Block Diagram](Air_Quality_Analyzer/Figures/block_diagram.jpg)
+![Block Diagram](Air_Quality_Analyzer/Figures/block_diagram.png)
 
 ### 🔄 Flowchart
 ![Flowchart](Air_Quality_Analyzer/Figures/flowchart.png)
