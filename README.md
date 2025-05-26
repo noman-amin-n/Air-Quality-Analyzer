@@ -1,10 +1,10 @@
-# 🌍 Air Quality Analyzer using ESP32
+# Air Quality Analyzer using ESP32
 
 This system leverages the ESP32 microcontroller alongside the MQ135 gas sensor and the DHT11 temperature-humidity sensor to continuously monitor air quality metrics. Data is transmitted via Wi-Fi to the Blynk platform, enabling real-time remote visualization and tracking.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Air_Quality_Analyzer/
 │
@@ -25,7 +25,7 @@ Air_Quality_Analyzer/
 ```
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Connect the hardware as shown in the schematic.
 2. Upload `sensor_calibration.ino` from the `Code/` folder to calibrate the MQ135 sensor.
@@ -35,7 +35,7 @@ Air_Quality_Analyzer/
 
 ---
 
-## 📱 Features
+## Features
 
 - Real-time air quality and temperature monitoring
 - Displays output on 16x2 LCD
@@ -45,34 +45,34 @@ Air_Quality_Analyzer/
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### 🔧 Circuit Setup
+### Circuit Setup
 ![Schematic Diagram](Air_Quality_Analyzer/Figures/schematic_diagram.png)
 
-### 📊 Block Diagram
+### Block Diagram
 ![Block Diagram](Air_Quality_Analyzer/Figures/block_diagram.png)
 
-### 🔄 Flowchart
+### Flowchart
 ![Flowchart](Air_Quality_Analyzer/Figures/flowchart.png)
 
-### 📱 Blynk App Interface
+### Blynk App Interface
 ![Blynk App](Air_Quality_Analyzer/Figures/Blynk_App.jpg)
 
-### 🚨 Alert Notification
+### Alert Notification
 ![CO2 Alert](Air_Quality_Analyzer/Figures/CO2_level_alert.jpg)
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 Full documentation is available in the `Report/` folder:
 
-📘 [Air Quality Monitoring System.pdf](Air_Quality_Analyzer/Report/Air%20Quality%20Monitoring%20System.pdf)
+[Air Quality Monitoring System.pdf](Air_Quality_Analyzer/Report/Air%20Quality%20Monitoring%20System.pdf)
 
 ---
 
-## 🧰 Hardware Used
+## Hardware Used
 
 - ESP32 Dev Board
 - MQ135 Gas Sensor
@@ -83,7 +83,7 @@ Full documentation is available in the `Report/` folder:
 
 ---
 
-## 📦 Libraries Required
+## Libraries Required
 
 Make sure to install these libraries in the Arduino IDE:
 
@@ -93,10 +93,6 @@ Make sure to install these libraries in the Arduino IDE:
 - `Blynk` library for ESP32
 
 ---
-
-## 👨‍💻 Author
-
-**Noman Amin**  
  
 
 
