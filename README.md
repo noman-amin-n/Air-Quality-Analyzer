@@ -85,8 +85,6 @@ Full documentation is available in the `Report/` folder:
 
 ## Libraries Required
 
-Make sure to install these libraries in the Arduino IDE:
-
 - `DHT sensor library by Adafruit`
 - `Adafruit Unified Sensor`
 - `LiquidCrystal_I2C`
